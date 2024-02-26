@@ -4,7 +4,7 @@ var generateBtn = document.querySelector("#generate");
 //add rest of alphabet 
 var lowerstring = "abcdefghijklmnopqrstuvwxyz";
 var upperstring = lowerstring.toUpperCase();
-var numbers = "0123456789";
+var numberstring = "0123456789";
 var symbols = "!@#$%^&*";
 
 //fuction for number of characters, and also alert if over or under chracter length 
@@ -38,7 +38,7 @@ function generatePassword() {
     totalstring += upperstring   
   }
   if (numbers){
-    totalstring += numbers
+    totalstring += numberstring
   }
   if (special){
     totalstring += symbols
