@@ -54,7 +54,7 @@ Password Generator is the third challenge for the Ohio State coding bootcamp.
 - THEN the password is either displayed in an alert or written to the page
 
  ## Images
-![Website Preview](03-javascript-homework-demo.png)
+![Website Preview](assets\img\03-javascript-homework-demo.png)
 
  ## Link to Deployed Webpage
 https://harveyzr.github.io/pass-gen/
