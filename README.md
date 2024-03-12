@@ -59,7 +59,7 @@ Password Generator is the third challenge for the Ohio State coding bootcamp.
  ## Link to Deployed Webpage
 https://harveyzr.github.io/pass-gen/
  
-## Link to GetHub Website
+## Link to GitHub Website
 https://github.com/harveyzr/pass-gen
 
  ## Skills Used
